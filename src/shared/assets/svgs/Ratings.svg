@@ -1,0 +1,15 @@
+<svg id="Ratings" xmlns="http://www.w3.org/2000/svg" width="56" height="30" viewBox="0 0 56 30">
+  <g id="Base">
+    <rect id="Shadow" width="56" height="30" rx="8" fill="none"/>
+    <rect id="Fill" width="56" height="30" rx="5" fill="#f49342"/>
+  </g>
+  <g id="Rating" transform="translate(6 5)">
+    <g id="Star" transform="translate(0 2)">
+      <g id="iconspace_Star_25px">
+        <path id="Path" d="M0,0H16V16H0Z" fill="none"/>
+        <path id="Path-2" data-name="Path" d="M6.72,10.945,3.058,13.386a.32.32,0,0,1-.494-.312l.617-4.322L.094,5.666a.32.32,0,0,1,.181-.543l4.3-.615L6.426.194a.32.32,0,0,1,.588,0L8.864,4.509l4.3.615a.32.32,0,0,1,.181.543L10.26,8.753l.617,4.322a.32.32,0,0,1-.494.312Z" transform="translate(1.28 1.28)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="_4_6" data-name="4,6" transform="translate(20 15)" fill="#fff" font-size="14" font-family="Rubik-Medium, Rubik" font-weight="500" letter-spacing="0.011em"><tspan x="0" y="0">4,6</tspan></text>
+  </g>
+</svg>

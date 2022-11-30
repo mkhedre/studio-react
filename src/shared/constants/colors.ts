@@ -1,0 +1,17 @@
+const colors = {
+  PRIMARY: '#131B3C',
+  SECONDARY: '#F07428',
+  SUCCESS: '#1891C9',
+  LIGHT_GRAY: '#E9EAED',
+  DARK_GRAY: '#707070',
+  WHIRLPOOL_GREEN: '#28C816',
+  WHITE: '#FFFFFF',
+  OFF_WHITE: '#F9FAFB',
+  ERROR: '#FC606A',
+  WARNING: '#FAC64D',
+  DISABLED: '#E5E5E5',
+  BLACK: '#000000',
+  GRAY: '#8A8686',
+  BINK: '#F6794D',
+};
+export default colors;

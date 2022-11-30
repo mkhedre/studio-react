@@ -1,0 +1,21 @@
+## TODO
+
+- Careers Page = **Done**
+- Apply To Job Form Popup = **Done**
+- Search Popup
+- Associations = **Done**
+- Association Details Page = **Done**
+- Training Center Page = **Done**
+- Media Page
+- Gallery Page
+- Gallery Images/Videos Popup
+- Forget Password
+- Verification Code
+- Home Page
+- Contact Us Page = **Done**
+- Project Details Page = **Done**
+- Initiative Details Page = **Done**
+- Agreement Details Page = **Done**››
+- About Us Page = **Done**
+- Toast Error / Toast Success
+- Edit Account Settings

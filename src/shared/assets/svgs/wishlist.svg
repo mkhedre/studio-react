@@ -1,0 +1,10 @@
+<svg id="wishlist" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <path id="Rectangle_453" data-name="Rectangle 453" d="M26,0h3A27,27,0,0,1,56,27v2A27,27,0,0,1,29,56H27A27,27,0,0,1,0,29V26A26,26,0,0,1,26,0Z" fill="#ff1010" opacity="0.09"/>
+  <g id="vuesax_bulk_heart" data-name="vuesax/bulk/heart" transform="translate(15.32 15.848)">
+    <g id="heart" transform="translate(-0.001 0)">
+      <path id="Vector" d="M21.132,5.906a11.283,11.283,0,0,1-.549,3.5H.549A11.283,11.283,0,0,1,0,5.906a5.866,5.866,0,0,1,10.566-3.55,5.866,5.866,0,0,1,10.566,3.55Z" transform="translate(2.113 3.275)" fill="#ff1010"/>
+      <path id="Vector-2" data-name="Vector" d="M20.033,0c-1.669,5.283-6.815,8.442-9.362,9.309a2.3,2.3,0,0,1-1.31,0C6.815,8.442,1.669,5.283,0,0Z" transform="translate(2.663 12.679)" fill="#ff1010" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H25.358V25.358H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

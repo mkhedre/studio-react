@@ -1,0 +1,9 @@
+<svg id="Brand" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Iconspace_User_1_25px" data-name="Iconspace_User 1_25px">
+    <path id="Path" d="M0,0H22V22H0Z" fill="none"/>
+    <path id="Path-2" data-name="Path" d="M0,0H22V22H0Z" fill="none"/>
+    <g id="facebook" transform="translate(1.76 1.76)">
+      <path id="Path-3" data-name="Path" d="M17.464,0H1.016A1.016,1.016,0,0,0,0,1.016V17.464A1.016,1.016,0,0,0,1.016,18.48H9.868V11.319h-2.4V8.547h2.4V6.468a3.363,3.363,0,0,1,3.585-3.7,18.72,18.72,0,0,1,2.153.111V5.378H14.137c-1.164,0-1.386.554-1.386,1.358V8.519h2.772l-.36,2.772H12.751V18.48h4.712a1.016,1.016,0,0,0,1.016-1.016V1.016A1.016,1.016,0,0,0,17.464,0Z" transform="translate(0)" fill="#919eab"/>
+    </g>
+  </g>
+</svg>
